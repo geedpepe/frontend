@@ -1,0 +1,58 @@
+header{
+    height: 100px;
+    width: 100%;
+    background-color: rgba(58, 47, 25, 0.356);
+    text-align: center;
+}
+
+
+nav ul li{
+    padding-top: 30px;
+  list-style: none;  
+display: inline-block;
+}
+
+
+nav a{
+    text-decoration: none;
+     color: rgba(15, 15, 15, 0.63);
+     font-size: 40px;
+     text-transform: capitalize;
+ 
+     
+     }
+     nav a:hover{
+         color:white;
+     }
+
+     main{
+        height: 60vh;
+        width: 100%;
+       background-image: url(./wooden.jpg);
+
+     }
+
+     main h1{
+      
+      text-align: center ;
+      color: rgb(56, 45, 8);
+      
+     }
+
+     footer{
+      height: 30vh;
+      width: 100%;
+      background-color: rgba(58, 47, 25, 0.356);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+  }
+  footer h1{
+      font-size: 60px;
+      color: rgb(105, 90, 17);
+      font-family: verdana;
+  }
+  footer h2{
+    font-size: 30px;
+      color: rgb(105, 90, 17);
+      font-family: verdana;
